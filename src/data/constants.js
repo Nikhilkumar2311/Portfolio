@@ -346,7 +346,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Nikhilkumar2311/weather-react",
-    webapp: "https://weather-react-basic.netlify.app/",
+    webapp: "https://weather-react-t21e.onrender.com",
   },
   {
     id: 10,
